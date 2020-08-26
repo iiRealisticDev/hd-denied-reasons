@@ -8,7 +8,7 @@ You cannot request multiple developer types in one post.
 
 You requested ...
 
-# For-Hire
+# For-Hire/Tutors Missing Roles
 To go for-hire/tutor you need the correlating skill roles.
 
 Register: https://hiddendevelopers.com/index.php?/register/
