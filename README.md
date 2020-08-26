@@ -24,7 +24,7 @@ You must offer at least R$100/$1 (or 10% for projects that are already out with 
 # Selling
 HD no longer supports selling.
 
-# Investng
+# Investing
 HD no longer supports investing.
 
 # Detail
