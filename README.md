@@ -33,9 +33,8 @@ Not enough detail was provided.
 # Starting Price
 You must include a starting price.
 
-
 # No invite
-Ads must include Discord invite
+Ads must include a Discord invite
 
 # Ad hiring
 \`,ad` is for advertising communities, not hiring
