@@ -11,9 +11,11 @@ You requested ...
 # For-Hire
 To go for-hire/tutor you need the correlating skill roles.
 
-Register - https://hiddendevelopers.com/index.php?/register/
-Apply - https://hiddendevelopers.com/index.php?/application/
-Guidelines - https://hiddendevelopers.com/index.php?/topic/3427-application-guidelines
+Register: https://hiddendevelopers.com/index.php?/register/
+
+Apply: https://hiddendevelopers.com/index.php?/application/
+
+Guidelines: https://hiddendevelopers.com/index.php?/topic/3427-application-guidelines
 
 # Behalf
 You cannot post on behalf of another user.
@@ -37,9 +39,10 @@ You must include a starting price.
 Ads must include a Discord invite
 
 # Ad hiring
-\`,ad` is for advertising communities, not hiring
+\`,ad\` is for advertising communities, not hiring, use \`,post`
 
-Ads cannot include hiring notices for developers.
+# Ad giveaway
+Ads cannot include mentions of giveaways.
 
 # Collab
 Collaboration posts must include a portfolio of your work.
