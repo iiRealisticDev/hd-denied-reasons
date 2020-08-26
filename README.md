@@ -39,10 +39,10 @@ You must include a starting price.
 Ads must include a Discord invite
 
 # Ad hiring
-\`,ad\` is for advertising communities, not hiring, use \`,post`
+\`,ad\` is for advertising communities, not hiring, use \`,post\`
 
 # Ad giveaway
 Ads cannot include mentions of giveaways.
 
-# Collab
+# No Portfolio
 Collaboration posts must include a portfolio of your work.
