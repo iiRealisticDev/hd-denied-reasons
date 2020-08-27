@@ -1,14 +1,14 @@
 # Denied Post Reasons
 
-# First Line
+## First Line
 Your post/ad was denied for violating our rules. Make sure to read <#407653489980735488> before posting.
 
-# Shotgun
+## Shotgun
 You cannot request multiple developer types in one post.
 
 You requested ...
 
-# For-Hire/Tutors Missing Roles
+## For-Hire/Tutors Missing Roles
 To go for-hire/tutor you need the correlating skill roles.
 
 Register: https://hiddendevelopers.com/index.php?/register/
@@ -17,32 +17,32 @@ Apply: https://hiddendevelopers.com/index.php?/application/
 
 Guidelines: https://hiddendevelopers.com/index.php?/topic/3427-application-guidelines
 
-# Behalf
+## Behalf
 You cannot post on behalf of another user.
 
-# Amount
+## Amount
 You must offer at least R$100/$1 (or 10% for projects that are already out with a following & making money)
 
-# Selling
+## Selling
 HD no longer supports selling.
 
-# Investing
+## Investing
 HD no longer supports investing.
 
-# Detail
+## Detail
 Not enough detail was provided.
 
-# Starting Price
+## Starting Price
 You must include a starting price.
 
-# No invite
+## No invite
 Ads must include a Discord invite
 
-# Ad hiring
+## Ad hiring
 \`,ad\` is for advertising communities, not hiring, use \`,post\`
 
-# Ad giveaway
+## Ad giveaway
 Ads cannot include mentions of giveaways.
 
-# No Portfolio
+## No Portfolio
 Collaboration posts must include a portfolio of your work.
