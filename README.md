@@ -1,1 +1,1 @@
-Moved to the [Wiki](https://github.com/iiRealisticDev/hd-denied-reasons.wiki.git)
+Moved to the [Wiki](https://github.com/iiRealisticDev/hd-denied-reasons/wiki)
