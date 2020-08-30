@@ -46,3 +46,6 @@ Ads cannot include mentions of giveaways.
 
 ## No Portfolio
 Collaboration posts must include a portfolio of your work.
+
+## Future Revenue
+You cannot only offer future revenue. The only time % can be offered as a standalone payment type is when your project is out and making income with a following.
