@@ -21,7 +21,7 @@ Guidelines: https://hiddendevelopers.com/index.php?/topic/3427-application-guide
 You cannot post on behalf of another user.
 
 ## Amount
-You must offer at least R$100/$1 (or 10% for projects that are already out with a following & making money)
+You must offer at least R$100/$1 USD (or 10% for projects that are already out with a following & making money)
 
 ## Selling
 HD no longer supports selling.
